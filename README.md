@@ -24,9 +24,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working at **Kloudfarm** as a **Software Engineer**
+- 🔭 I’m currently working at **NeoSapients** as a **Software Engineer**
 - 🌱 I’m actively learning **AI Agent integration**, **FastAPI optimizations**, and **cloud infrastructure**
-- 👯 Previously worked at **A Plus Topper**, **MxAlgo**, and **Surepass Technologies**
+- 👯 Previously worked at **Techtic Solutions**, **Klodfarm**, and **Surepass Technologies**
 - ⚡ Fun fact: I’ve solved 500+ problems on LeetCode!
 
 ---
